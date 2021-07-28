@@ -1,11 +1,11 @@
-# Laserd
+# Laser'd
 
 [Autr's](https://autr.tv) personal repo for keeping organised with laser cutting.
 
 ## Links
 
 * [Laserquest](https://autr.github.io/laserquest) - my tool for generating boxes
-* [Affinity Designer](https://affinity.serif.com) - for general design (fuck Adobe)
+* [Affinity Designer](https://affinity.serif.com) - for general design (_boo-hiss Adobe_)
 * [Inkscape](https://inkscape.org) - for technical things
 * [Tinkercad](https://tinkercad.com) - for 3D printed parts
 * [Formulor](https://www.formulor.de) - online laser cutting ordering (DE)
@@ -112,3 +112,24 @@ Hard to gauge what price will be - seems to be based on amount of lines and time
 ## Images
 
 [comment]: <> (replaceme)
+![9202.gif](resources/9202.gif)
+![ATXPS2-3.jpg](resources/ATXPS2-3.jpg)
+![ATX_ITX_Guides.svg](resources/ATX_ITX_Guides.svg)
+![ClosedBox.svg](resources/ClosedBox.svg)
+![Screen Shot 2021-01-27 at 16.25.28.png](resources/Screen%20Shot%202021-01-27%20at%2016.25.28.png)
+![Screen Shot 2021-01-27 at 16.30.45.png](resources/Screen%20Shot%202021-01-27%20at%2016.30.45.png)
+![arduino_mega_drawing.svg](resources/arduino_mega_drawing.svg)
+![arduino_uno_drawing.svg](resources/arduino_uno_drawing.svg)
+![arduino_uno_drawing_500x351.png](resources/arduino_uno_drawing_500x351.png)
+![atx-psu-jpg.44817.jpg](resources/atx-psu-jpg.44817.jpg)
+![figure-11-2.jpg](resources/figure-11-2.jpg)
+![figure-4-1.jpg](resources/figure-4-1.jpg)
+![figure-4.jpg](resources/figure-4.jpg)
+![figure-6-2.jpg](resources/figure-6-2.jpg)
+![figure-6-3.jpg](resources/figure-6-3.jpg)
+![figure-6-4.jpg](resources/figure-6-4.jpg)
+![figure-7-6.jpg](resources/figure-7-6.jpg)
+![img12.jpg](resources/img12.jpg)
+![kA090000000RFPN_1.jpg](resources/kA090000000RFPN_1.jpg)
+![kA090000000RFPN_2.jpg](resources/kA090000000RFPN_2.jpg)
+![unknown.png](resources/unknown.png)
