@@ -81,12 +81,16 @@ Stand-offs = 110.64 + MOBO standoff (6mm?)
 
 __V1__ - `1 x 790x384mm`
 
+![V2](exports/V1.png)
+
 * 1 x fullsize ATX case (too thick, ugly)
 * 2 x speaker box-cases
 
 _Price ~ 40eu_
 
 __V2__ - `2 x 790x384mm`
+
+![V2](exports/V2_AB.png)
 
 * 1 x fullsize ATX case
 * 2 x micro ITX case
@@ -109,7 +113,7 @@ Hard to gauge what price will be - seems to be based on amount of lines and time
 46 x M3/M2.5 washers = 92 small circles = 5eu
 ```
 
-## Images
+## Resources
 
 [comment]: <> (replaceme)
 ![9202.gif](resources/9202.gif)
